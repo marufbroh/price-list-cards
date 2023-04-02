@@ -1,8 +1,8 @@
 import React from 'react';
 
-const List = ({route}) => {
+const List = ({ route }) => {
     return (
-        <li>
+        <li className='hover:bg-gray-600 p-1 rounded hover:text-lg'>
             <a href={route.path}>{route.name}</a>
         </li>
     );

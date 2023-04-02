@@ -1,0 +1,41 @@
+{
+    "gymName": "FitZone",
+    "membershipTypes": [
+      {
+        "id": 1,
+        "name": "Basic",
+        "price": 30.00,
+        "description": "Access to gym equipment during non-peak hours",
+        "benefits": [
+          "Locker rental",
+          "Discounted rates on personal training"
+        ],
+        "photo": "https://img.freepik.com/premium-photo/heap-dumbbells_266732-14797.jpg?w=1380"
+      },
+      {
+        "id": 2,
+        "name": "Premium",
+        "price": 50.00,
+        "description": "Access to gym equipment and classes during all hours",
+        "benefits": [
+          "Locker rental",
+          "Free personal training session",
+          "Discounted rates on additional personal training"
+        ],
+        "photo": "https://img.freepik.com/free-photo/man-training-gym_23-2148024307.jpg?w=1380&t=st=1680435140~exp=1680435740~hmac=83dec0e6a0e1f4683759ceca1a0d5d7573d654bf12ed7ab00f1fac2f130c5e5f"
+      },
+      {
+        "id": 3,
+        "name": "Corporate",
+        "price": 80.00,
+        "description": "Access to gym equipment and classes during all hours for up to 5 employees",
+        "benefits": [
+          "Locker rental for each employee",
+          "Free personal training session for each employee",
+          "Discounted rates on additional personal training for each employee"
+        ],
+        "photo": "https://img.freepik.com/free-photo/man-boxing-gym_23-2148024328.jpg?w=1380&t=st=1680436231~exp=1680436831~hmac=b424c08fae9b90e8d18455950db19e956837935ca4da9cc835cd190650e56fed"
+      }
+    ]
+  }
+  
